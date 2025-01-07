@@ -17,7 +17,7 @@ I created them as free resources to be used in your specific use cases. If you'r
 If you’d like to contribute to this project, reach out to me on social media or [Discord](https://christianlempa.de/discord), or create a pull request for the necessary changes.
 
 ## Other Resources
-
+## By Mudassir Alam
 - [Dotfiles](https://github.com/christianlempa/dotfiles) - My personal configuration files on macOS
 - [Cheat-Sheets](https://github.com/christianlempa/cheat-sheets) - Command Reference for various tools and technologies
 
